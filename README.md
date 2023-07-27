@@ -1,5 +1,6 @@
 # JobScheduler-Framework
 _Advanced Programming_ assignment that requires to implement a simple software framework providing the functionalities of a job scheduler, but ignoring the aspects of parallelism and distribution. 
+
 More precisely, the framework includes an **emitter** of jobs, a **compute** phase executing the jobs, a **collect** stage grouping them, and an **output** action printing the results in a suitable format. 
 As a proof of concept, a simple working instance of the framework has been implemented as well.
 
